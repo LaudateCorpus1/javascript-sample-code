@@ -1,6 +1,6 @@
 # ID.me jQuery Sample Code #
 
-This is jQuery sample code to make API requests with ID.me using OAuth 2.0.
+This is Javascript sample code to make API requests with ID.me using OAuth 2.0.
 
 ## Setup ##
 
